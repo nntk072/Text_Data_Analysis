@@ -1,2 +1,2 @@
-# exclude .png file
-*.png
+.ipynb_checkpoints
+*.zip
